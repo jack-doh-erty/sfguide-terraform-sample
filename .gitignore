@@ -1,0 +1,6 @@
+.venv
+snow.env
+.DS_Store
+*.terraform*
+*.tfstate
+*.tfstate.*
